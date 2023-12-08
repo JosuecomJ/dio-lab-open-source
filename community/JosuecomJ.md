@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/JosuecomJ?label=Follow&style=social)](https://github.com/JosuecomJ)
 
-## Conect-se comigo?
+## Conecte-se comigo?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-josue-nunes/)
 
